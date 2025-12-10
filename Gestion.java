@@ -1,13 +1,20 @@
+import java.util.ArrayList;
 
 public class Gestion{
 	private String nombre;
 	private String apellido;
 	private int edad;
+	private ArrayList<Gestion> ites;
 
 	public Gestion(String nombre, String apellido , int edad){
 		this.nombre = nombre;
 		this.apellido = apellido;
 		this.edad = edad;
+		this.ites = new ArrayList<>();
+	}
+	
+	public void addNombre(Gestion n){
+		this.ites.add(n);
 	}
 
 	//getter
