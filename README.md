@@ -1,4 +1,4 @@
-# Hi there, I'm Jose Fernando Nevarez 
+# Hi , I'm Jose Fernando Nevarez 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jose-nevarez)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail)](mailto:JJ04Ec@protonmail.com)
